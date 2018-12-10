@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">拍照姿势</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="linearlayout">线性布局</string>
+    <string name="gridlayout">网格布局</string>
+    <string name="staggeredgridlayout">交错网格布局</string>
+</resources>

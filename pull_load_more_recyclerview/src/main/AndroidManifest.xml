@@ -1,0 +1,2 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ranjie.pull_load_more_recyclerview" />
